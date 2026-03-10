@@ -1,12 +1,13 @@
 {
-  "name": "sanctiuni-politist",
+  "name": "sanctiuni-politie",
   "version": "1.0.0",
+  "description": "Bot sanctiuni politie",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "discord.js": "^14.21.0",
-    "dotenv": "^16.6.1"
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
   }
 }
